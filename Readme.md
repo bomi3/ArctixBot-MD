@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://telegra.ph/file/12493a57962e154fb6056.jpg" width="350" height="300" />
 </p><br>
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+https://deploy.cyclic.app/
 
 <p align="center">
 ArctixBot-MD Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sibuuu07" target="_blank">𝐀𝐫𝐜𝐭𝐢𝐱 𝐢𝐧𝐜.</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
